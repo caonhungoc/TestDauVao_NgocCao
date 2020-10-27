@@ -1,0 +1,9 @@
+1> Kể tên 5 loại kiểu dữ liệu mà bạn biết : int, long, byte, char, float
+2> Định nghĩa 1 hàm tính tổng 2 số được truyền vào: 
+int sum (int a, int b) {
+    return a + b;
+}
+
+6> Class là gì? Class có phải là kiểu dữ liệu như câu hỏi 1?
+- Class là 1 nhóm cái đối tượng có các đặc điểm chung, class là khung để tạo đối tượng.
+- Class KHÔNG phải kiểu dữ liệu như câu 1
